@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	backgroundColor="rgba(255,255,255,1)"
+
+>
+  <image imageURL="images/IMG_3028.JPG"
+	thumbURL="thumbs/IMG_3028.JPG"
+	linkURL="images/IMG_3028.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Wood Work/Roubo/IMG_3028.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3029.JPG"
+	thumbURL="thumbs/IMG_3029.JPG"
+	linkURL="images/IMG_3029.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Wood Work/Roubo/IMG_3029.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3030.JPG"
+	thumbURL="thumbs/IMG_3030.JPG"
+	linkURL="images/IMG_3030.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Wood Work/Roubo/IMG_3030.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3031.JPG"
+	thumbURL="thumbs/IMG_3031.JPG"
+	linkURL="images/IMG_3031.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Wood Work/Roubo/IMG_3031.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3032.JPG"
+	thumbURL="thumbs/IMG_3032.JPG"
+	linkURL="images/IMG_3032.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Wood Work/Roubo/IMG_3032.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3033.JPG"
+	thumbURL="thumbs/IMG_3033.JPG"
+	linkURL="images/IMG_3033.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Wood Work/Roubo/IMG_3033.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3034.JPG"
+	thumbURL="thumbs/IMG_3034.JPG"
+	linkURL="images/IMG_3034.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Wood Work/Roubo/IMG_3034.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3035.JPG"
+	thumbURL="thumbs/IMG_3035.JPG"
+	linkURL="images/IMG_3035.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Wood Work/Roubo/IMG_3035.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3036.JPG"
+	thumbURL="thumbs/IMG_3036.JPG"
+	linkURL="images/IMG_3036.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Wood Work/Roubo/IMG_3036.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3038.JPG"
+	thumbURL="thumbs/IMG_3038.JPG"
+	linkURL="images/IMG_3038.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Wood Work/Roubo/IMG_3038.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3039.JPG"
+	thumbURL="thumbs/IMG_3039.JPG"
+	linkURL="images/IMG_3039.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Wood Work/Roubo/IMG_3039.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_3041.JPG"
+	thumbURL="thumbs/IMG_3041.JPG"
+	linkURL="images/IMG_3041.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Wood Work/Roubo/IMG_3041.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
