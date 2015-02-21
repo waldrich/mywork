@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,1)"
+	showExpandButton="false"
+	showOpenButton="false"
+
+>
+  <image imageURL="images/American Pastime.JPG"
+	thumbURL="thumbs/American Pastime.JPG"
+	linkURL="images/American Pastime.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/American Pastime.JPG">
+    <title><![CDATA[American Pastime]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/American Pride.JPG"
+	thumbURL="thumbs/American Pride.JPG"
+	linkURL="images/American Pride.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/American Pride.JPG">
+    <title><![CDATA[American Pride]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/An Early Rising.JPG"
+	thumbURL="thumbs/An Early Rising.JPG"
+	linkURL="images/An Early Rising.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/An Early Rising.JPG">
+    <title><![CDATA[An Early Rising]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Behind the Trees.JPG"
+	thumbURL="thumbs/Behind the Trees.JPG"
+	linkURL="images/Behind the Trees.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Behind the Trees.JPG">
+    <title><![CDATA[Behind the Trees]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ant Christmas.JPG"
+	thumbURL="thumbs/Ant Christmas.JPG"
+	linkURL="images/Ant Christmas.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Ant Christmas.JPG">
+    <title><![CDATA[Ant 's Christmas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Bikes and Leather.JPG"
+	thumbURL="thumbs/Bikes and Leather.JPG"
+	linkURL="images/Bikes and Leather.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Bikes and Leather.JPG">
+    <title><![CDATA[Bikes and Leather]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Black and Gold.JPG"
+	thumbURL="thumbs/Black and Gold.JPG"
+	linkURL="images/Black and Gold.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Black and Gold.JPG">
+    <title><![CDATA[Black and Gold]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Bridging the New River.JPG"
+	thumbURL="thumbs/Bridging the New River.JPG"
+	linkURL="images/Bridging the New River.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Bridging the New River.JPG">
+    <title><![CDATA[Bridging the New River]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Building America.JPG"
+	thumbURL="thumbs/Building America.JPG"
+	linkURL="images/Building America.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Building America.JPG">
+    <title><![CDATA[Building America]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Commanding the Sky.JPG"
+	thumbURL="thumbs/Commanding the Sky.JPG"
+	linkURL="images/Commanding the Sky.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Commanding the Sky.JPG">
+    <title><![CDATA[Commanding the Sky]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Density.JPG"
+	thumbURL="thumbs/Density.JPG"
+	linkURL="images/Density.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Density.JPG">
+    <title><![CDATA[Density]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Essence of the Burgh.JPG"
+	thumbURL="thumbs/Essence of the Burgh.JPG"
+	linkURL="images/Essence of the Burgh.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Essence of the Burgh.JPG">
+    <title><![CDATA[Essence of the Burgh]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Extended Travel.JPG"
+	thumbURL="thumbs/Extended Travel.JPG"
+	linkURL="images/Extended Travel.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Extended Travel.JPG">
+    <title><![CDATA[Extended Travel]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Fading Day.JPG"
+	thumbURL="thumbs/Fading Day.JPG"
+	linkURL="images/Fading Day.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Fading Day.JPG">
+    <title><![CDATA[Fading Day]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Golden City.JPG"
+	thumbURL="thumbs/Golden City.JPG"
+	linkURL="images/Golden City.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Golden City.JPG">
+    <title><![CDATA[Golden City]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Golden Triange.JPG"
+	thumbURL="thumbs/Golden Triange.JPG"
+	linkURL="images/Golden Triange.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Golden Triange.JPG">
+    <title><![CDATA[Golden Triange]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Heart of Pennsylvania.JPG"
+	thumbURL="thumbs/Heart of Pennsylvania.JPG"
+	linkURL="images/Heart of Pennsylvania.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Heart of Pennsylvania.JPG">
+    <title><![CDATA[Heart of Pennsylvania]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Highway Night Lights.JPG"
+	thumbURL="thumbs/Highway Night Lights.JPG"
+	linkURL="images/Highway Night Lights.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Highway Night Lights.JPG">
+    <title><![CDATA[Highway Night Lights]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Image Mirror.JPG"
+	thumbURL="thumbs/Image Mirror.JPG"
+	linkURL="images/Image Mirror.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Image Mirror.JPG">
+    <title><![CDATA[Image Mirror]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Journey West.JPG"
+	thumbURL="thumbs/Journey West.JPG"
+	linkURL="images/Journey West.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Journey West.JPG">
+    <title><![CDATA[Journey West]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Living the Edge.JPG"
+	thumbURL="thumbs/Living the Edge.JPG"
+	linkURL="images/Living the Edge.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Living the Edge.JPG">
+    <title><![CDATA[Living the Edge]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Modern Skies.jpg"
+	thumbURL="thumbs/Modern Skies.jpg"
+	linkURL="images/Modern Skies.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Modern Skies.jpg">
+    <title><![CDATA[Modern Skies]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Night Halo.JPG"
+	thumbURL="thumbs/Night Halo.JPG"
+	linkURL="images/Night Halo.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Night Halo.JPG">
+    <title><![CDATA[Night Halo]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Peak a Boo.JPG"
+	thumbURL="thumbs/Peak a Boo.JPG"
+	linkURL="images/Peak a Boo.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Peak a Boo.JPG">
+    <title><![CDATA[Peak a Boo]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Road to Democracy.JPG"
+	thumbURL="thumbs/Road to Democracy.JPG"
+	linkURL="images/Road to Democracy.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Road to Democracy.JPG">
+    <title><![CDATA[Road to Democracy]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Setting City.JPG"
+	thumbURL="thumbs/Setting City.JPG"
+	linkURL="images/Setting City.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Setting City.JPG">
+    <title><![CDATA[Setting City]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Splitting the Distance.JPG"
+	thumbURL="thumbs/Splitting the Distance.JPG"
+	linkURL="images/Splitting the Distance.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Splitting the Distance.JPG">
+    <title><![CDATA[Splitting the Distance]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Splitting the Ohio.JPG"
+	thumbURL="thumbs/Splitting the Ohio.JPG"
+	linkURL="images/Splitting the Ohio.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Splitting the Ohio.JPG">
+    <title><![CDATA[Splitting the Ohio]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Through the Wonderland.JPG"
+	thumbURL="thumbs/Through the Wonderland.JPG"
+	linkURL="images/Through the Wonderland.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Through the Wonderland.JPG">
+    <title><![CDATA[Through the Wonderland]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Throw Detail.JPG"
+	thumbURL="thumbs/Throw Detail.JPG"
+	linkURL="images/Throw Detail.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Throw Detail.JPG">
+    <title><![CDATA[Throw Detail]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Tradition.JPG"
+	thumbURL="thumbs/Tradition.JPG"
+	linkURL="images/Tradition.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Tradition.JPG">
+    <title><![CDATA[Tradition]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Under Our Sun.JPG"
+	thumbURL="thumbs/Under Our Sun.JPG"
+	linkURL="images/Under Our Sun.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Under Our Sun.JPG">
+    <title><![CDATA[Under Our Sun]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Wallpaper in Reality.JPG"
+	thumbURL="thumbs/Wallpaper in Reality.JPG"
+	linkURL="images/Wallpaper in Reality.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Wallpaper in Reality.JPG">
+    <title><![CDATA[Wallpaper in Reality]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/What Better Day.JPG"
+	thumbURL="thumbs/What Better Day.JPG"
+	linkURL="images/What Better Day.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/What Better Day.JPG">
+    <title><![CDATA[What Better Day]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/What Better Day 02.JPG"
+	thumbURL="thumbs/What Better Day 02.JPG"
+	linkURL="images/What Better Day 02.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/What Better Day 02.JPG">
+    <title><![CDATA[What Better Day 02]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/What Better Day 03.JPG"
+	thumbURL="thumbs/What Better Day 03.JPG"
+	linkURL="images/What Better Day 03.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/What Better Day 03.JPG">
+    <title><![CDATA[What Better Day 03]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Why Crush 'em.JPG"
+	thumbURL="thumbs/Why Crush 'em.JPG"
+	linkURL="images/Why Crush 'em.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Photography/Why Crush 'em.JPG">
+    <title><![CDATA[Why Crush 'em]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

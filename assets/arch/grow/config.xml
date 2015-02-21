@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+
+>
+  <image imageURL="images/process003.jpg"
+	thumbURL="thumbs/process003.jpg"
+	linkURL="images/process003.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Grow Collective/process003.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/process001.jpg"
+	thumbURL="thumbs/process001.jpg"
+	linkURL="images/process001.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Grow Collective/process001.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/William's Floors001.jpg"
+	thumbURL="thumbs/William's Floors001.jpg"
+	linkURL="images/William's Floors001.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Grow Collective/William's Floors001.png">
+    <title><![CDATA[Process]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1024132139b.jpg"
+	thumbURL="thumbs/1024132139b.jpg"
+	linkURL="images/1024132139b.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Grow Collective/1024132139b.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1114130226.jpg"
+	thumbURL="thumbs/1114130226.jpg"
+	linkURL="images/1114130226.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Grow Collective/1114130226.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1114130228a.jpg"
+	thumbURL="thumbs/1114130228a.jpg"
+	linkURL="images/1114130228a.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Grow Collective/1114130228a.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1114130231.jpg"
+	thumbURL="thumbs/1114130231.jpg"
+	linkURL="images/1114130231.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Grow Collective/1114130231.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1114130239 (1).jpg"
+	thumbURL="thumbs/1114130239 (1).jpg"
+	linkURL="images/1114130239 (1).jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Grow Collective/1114130239 (1).jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1209131417.jpg"
+	thumbURL="thumbs/1209131417.jpg"
+	linkURL="images/1209131417.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Grow Collective/1209131417.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1209131418a.jpg"
+	thumbURL="thumbs/1209131418a.jpg"
+	linkURL="images/1209131418a.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Grow Collective/1209131418a.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1209131419a.jpg"
+	thumbURL="thumbs/1209131419a.jpg"
+	linkURL="images/1209131419a.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Grow Collective/1209131419a.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1209131420b.jpg"
+	thumbURL="thumbs/1209131420b.jpg"
+	linkURL="images/1209131420b.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Grow Collective/1209131420b.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/View from Penn II.jpg"
+	thumbURL="thumbs/View from Penn II.jpg"
+	linkURL="images/View from Penn II.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Grow Collective/View from Penn II.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/In the Forest.jpg"
+	thumbURL="thumbs/In the Forest.jpg"
+	linkURL="images/In the Forest.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Grow Collective/In the Forest.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/View of Forest II.jpg"
+	thumbURL="thumbs/View of Forest II.jpg"
+	linkURL="images/View of Forest II.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Grow Collective/View of Forest II.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

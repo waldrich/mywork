@@ -81,7 +81,9 @@ h6 {
 .bg-darkest-gray {
     background-color: #777;
 }
-
+iframe{
+    border: none;
+}
 .btn-primary {
     border-color: #820000;
     

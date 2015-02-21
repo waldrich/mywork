@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+
+>
+  <image imageURL="images/IMG_1360.JPG"
+	thumbURL="thumbs/IMG_1360.JPG"
+	linkURL="images/IMG_1360.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Building Study/IMG_1360.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1363.JPG"
+	thumbURL="thumbs/IMG_1363.JPG"
+	linkURL="images/IMG_1363.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Building Study/IMG_1363.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1368.JPG"
+	thumbURL="thumbs/IMG_1368.JPG"
+	linkURL="images/IMG_1368.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Building Study/IMG_1368.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1373.JPG"
+	thumbURL="thumbs/IMG_1373.JPG"
+	linkURL="images/IMG_1373.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Building Study/IMG_1373.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1377.JPG"
+	thumbURL="thumbs/IMG_1377.JPG"
+	linkURL="images/IMG_1377.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Building Study/IMG_1377.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1381.JPG"
+	thumbURL="thumbs/IMG_1381.JPG"
+	linkURL="images/IMG_1381.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Building Study/IMG_1381.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1390.JPG"
+	thumbURL="thumbs/IMG_1390.JPG"
+	linkURL="images/IMG_1390.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Building Study/IMG_1390.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1392.JPG"
+	thumbURL="thumbs/IMG_1392.JPG"
+	linkURL="images/IMG_1392.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Building Study/IMG_1392.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1398.JPG"
+	thumbURL="thumbs/IMG_1398.JPG"
+	linkURL="images/IMG_1398.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Building Study/IMG_1398.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1404.JPG"
+	thumbURL="thumbs/IMG_1404.JPG"
+	linkURL="images/IMG_1404.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Building Study/IMG_1404.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1518.jpg"
+	thumbURL="thumbs/IMG_1518.jpg"
+	linkURL="images/IMG_1518.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Building Study/IMG_1518.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1523.jpg"
+	thumbURL="thumbs/IMG_1523.jpg"
+	linkURL="images/IMG_1523.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Building Study/IMG_1523.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1524.jpg"
+	thumbURL="thumbs/IMG_1524.jpg"
+	linkURL="images/IMG_1524.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Building Study/IMG_1524.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1527.jpg"
+	thumbURL="thumbs/IMG_1527.jpg"
+	linkURL="images/IMG_1527.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Building Study/IMG_1527.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1531.jpg"
+	thumbURL="thumbs/IMG_1531.jpg"
+	linkURL="images/IMG_1531.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Building Study/IMG_1531.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1532.jpg"
+	thumbURL="thumbs/IMG_1532.jpg"
+	linkURL="images/IMG_1532.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Building Study/IMG_1532.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

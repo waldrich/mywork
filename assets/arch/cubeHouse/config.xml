@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+
+>
+  <image imageURL="images/1.JPG"
+	thumbURL="thumbs/1.JPG"
+	linkURL="images/1.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Cube House/1.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2.JPG"
+	thumbURL="thumbs/2.JPG"
+	linkURL="images/2.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Cube House/2.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/3.jpg"
+	thumbURL="thumbs/3.jpg"
+	linkURL="images/3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Cube House/3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/4.jpg"
+	thumbURL="thumbs/4.jpg"
+	linkURL="images/4.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Cube House/4.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5.jpg"
+	thumbURL="thumbs/5.jpg"
+	linkURL="images/5.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Cube House/5.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6.jpg"
+	thumbURL="thumbs/6.jpg"
+	linkURL="images/6.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Cube House/6.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/7.jpg"
+	thumbURL="thumbs/7.jpg"
+	linkURL="images/7.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Cube House/7.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8.JPG"
+	thumbURL="thumbs/8.JPG"
+	linkURL="images/8.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Cube House/8.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/9.jpg"
+	thumbURL="thumbs/9.jpg"
+	linkURL="images/9.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 1/Cube House/9.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+
+>
+  <image imageURL="images/DSC_0712.JPG"
+	thumbURL="thumbs/DSC_0712.JPG"
+	linkURL="images/DSC_0712.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 2/Desk Organizer/DSC_0712.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0717.JPG"
+	thumbURL="thumbs/DSC_0717.JPG"
+	linkURL="images/DSC_0717.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 2/Desk Organizer/DSC_0717.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0719.JPG"
+	thumbURL="thumbs/DSC_0719.JPG"
+	linkURL="images/DSC_0719.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 2/Desk Organizer/DSC_0719.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0726.JPG"
+	thumbURL="thumbs/DSC_0726.JPG"
+	linkURL="images/DSC_0726.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 2/Desk Organizer/DSC_0726.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0729.JPG"
+	thumbURL="thumbs/DSC_0729.JPG"
+	linkURL="images/DSC_0729.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 2/Desk Organizer/DSC_0729.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0730.JPG"
+	thumbURL="thumbs/DSC_0730.JPG"
+	linkURL="images/DSC_0730.JPG"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 2/Desk Organizer/DSC_0730.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Wing Detail.jpg"
+	thumbURL="thumbs/Wing Detail.jpg"
+	linkURL="images/Wing Detail.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 2/Desk Organizer/Wing Detail.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

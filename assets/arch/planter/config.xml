@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+
+>
+  <image imageURL="images/0901131518.jpg"
+	thumbURL="thumbs/0901131518.jpg"
+	linkURL="images/0901131518.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Origami Planter/0901131518.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0901131522.jpg"
+	thumbURL="thumbs/0901131522.jpg"
+	linkURL="images/0901131522.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Origami Planter/0901131522.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0906131724.jpg"
+	thumbURL="thumbs/0906131724.jpg"
+	linkURL="images/0906131724.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Origami Planter/0906131724.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0908131513.jpg"
+	thumbURL="thumbs/0908131513.jpg"
+	linkURL="images/0908131513.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Origami Planter/0908131513.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0908131514b.jpg"
+	thumbURL="thumbs/0908131514b.jpg"
+	linkURL="images/0908131514b.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Origami Planter/0908131514b.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0908131514c.jpg"
+	thumbURL="thumbs/0908131514c.jpg"
+	linkURL="images/0908131514c.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Origami Planter/0908131514c.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0908131514d.jpg"
+	thumbURL="thumbs/0908131514d.jpg"
+	linkURL="images/0908131514d.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Origami Planter/0908131514d.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/0908131515.jpg"
+	thumbURL="thumbs/0908131515.jpg"
+	linkURL="images/0908131515.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/RAB/Google Drive/My Website/Architecture/Semester 3/Origami Planter/0908131515.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
